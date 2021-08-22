@@ -28,6 +28,7 @@ dependencies:
   expandable: ^5.0.1
   url_launcher: ^6.0.7
   flutter_svg: ^0.22.0
+  better_player: ^0.0.73
 
 
 
